@@ -83,6 +83,13 @@ main {
     font-family: 'arial-black';
     text-transform: uppercase;
   }
+   
+  & .datestamp {
+    font-size: 0.7rem;
+    color: #ccc;
+    line-height: 1;
+    font-weight: bold;
+  }
 
   & .description {
     line-height: 1.7;
